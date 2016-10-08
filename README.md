@@ -402,8 +402,8 @@ Project License can be found [here](LICENSE.md).
 [travis-link]:     https://travis-ci.org/nvbn/thefuck
 [appveyor-badge]:  https://img.shields.io/appveyor/ci/nvbn/thefuck.svg?label=windows%20build
 [appveyor-link]:   https://ci.appveyor.com/project/nvbn/thefuck
-[coverage-badge]:  https://img.shields.io/coveralls/nvbn/thefuck.svg
-[coverage-link]:   https://coveralls.io/github/nvbn/thefuck
+[coverage-badge]:  http://codecov.io/github/josephfrazier/thefuck/coverage.svg
+[coverage-link]:   http://codecov.io/github/josephfrazier/thefuck
 [license-badge]:   https://img.shields.io/badge/license-MIT-007EC7.svg
 [examples-link]:   https://raw.githubusercontent.com/nvbn/thefuck/master/example.gif
 [homebrew]:        http://brew.sh/
